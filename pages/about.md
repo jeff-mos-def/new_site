@@ -4,12 +4,14 @@ permalink: /about
 title: About
 content-type: static
 ---
-Hiran Venugopalan is a maker, product and type designer, and design mentor currently living in Bangalore, India. With over twelve years of experience in designing type, product, brand, and strategies, he uses design to solve problems integrating user needs, requirements of business success, and the possibilities of technology.
+Hi, I'm Jeff Camacho. If we could share a moment, I'd start with my time in the Army, which was more than just a rite of passage. Despite lacking high school accolades, military life opened my eyes to the world in unparalleled ways. I handled specialized electronics, acted as a squad leader to soldiers, and along the journey, absorbed invaluable lessons in discipline and teamwork, my guiding principles to this day.
 
-Hiran's design and tech career started in 2006 while playing a leadership role in reimagining and reactivating [Swathanthra Malayalam Computing](https://smc.org.in/ "Swathanthra Malayalam Computing") . Designing was something he volunteered as a contribution to FOSS Project, which soon became a freelancing option. A year later, he participated in the [Google Summer of Code](https://developers.google.com/open-source/gsoc/2007) designing the first Decorative Unicode Malayalam typeface.
+Moving on, I found myself immersed in electrical engineering and an MBA at Texas State and A&M, where I discovered my academic potential and achieved a flawless GPA.
 
-In the first four years of his career, he envisioned and christened Saltmangotree, one of the first Indian digital marketing agencies and led the technology and design teams until acquisition by a French MNC. Since then, he is working as a Product Designer on tech products related to civic engagement, content publishing, and communication.
+Today, I'm fully engaged in Agile software development at BigBear.ai. In this role, I have the privilege of guiding brilliant tech minds, navigating the complexities of crafting software for the Air Force. It's about maintaining agility, keeping our goals in sight, and the satisfaction of a well-executed plan.
 
-As side hustles, he co-created [Malayaleegraphy](https://www.facebook.com/malayaleegraphy/ "Malayaleegraphy"), [Chali Machine](http://www.chalimachine.com/create/ "Chali Machine"), initiated [Kerala Designer Co](https://kdco.info/ "Kerala Designer Co"), and designed a couple of fonts - [Dyuthi](https://www.behance.net/gallery/88259217/Dyuthi-Ornamental-Malayalam-Unicode-Typeface "Dyuthi") (Malayalam/2008), [Rufscript](https://www.behance.net/gallery/88284601/Rufscript-English-Handwriting-Unicode-Font "Rufscript") (Limited Latin/2009).
+Beyond technology, I've ventured into entrepreneurship with a cleaning service, honing a foolproof marketing approach and upholding a staunch commitment to safety.
 
-Being a self-learner, Hiran is passionate about sharing his knowledge provides coaching and mentoring design and product. Other interest includes reading, movies, and traveling.
+Throughout my journey from the military to the tech peaks of Silicon Hills, I've gleaned insights on leading teams, managing multiple projects, and enhancing operational workflows. While certifications and titles tell part of the story, for me, the essence lies in fostering team spirit, refining processes, and the shared stride towards progress.
+
+Being a self-learner, I am passionate about sharing my knowledge and provide coaching and mentoring to veterans and service members. Other interest includes reading, movies, and traveling.
