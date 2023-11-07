@@ -1,5 +1,5 @@
 ---
-title: AntiLibrary
+title: antilibrary
 permalink: /antilibrary
 format: list
 description: An <a href="https://fs.blog/the-antilibrary/">antilibrary </a> usually includes unread books we own. For me, it's a list of books I aspire to own and read in various formats - 📖 books, 📟 ebooks, and 🎧 audiobooks. Also, explore my <a href="/reading"><b>Reading list.</b></a> 

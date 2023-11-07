@@ -1,5 +1,5 @@
 ---
-title: Tools of Choice
+title: tools of choice
 permalink: /using
 format: list
 description: Check out my handpicked collection of favorite tools, spanning analog and digital domains (Web, Mac & Android)
@@ -7,9 +7,10 @@ order: 4
 ---
 
 ### Devices
-- Mac Book Pro for design and office use
-- iPad Pro 2020 for personal requirements
-- Google Pixel 3a, with [Before Launcher](https://play.google.com/store/apps/details?id=com.beforesoft.launcher&hl=en_IN&gl=US) and [95% notifications turned off](https://medium.com/make-time/six-years-with-a-distraction-free-iphone-8cf5eb4f97e3). 
+- LG gram 16" 2-in-1 Ultra-Lightweight laptop for home office use, OS: Linux Mint
+- Dell Latitude 7480 laptop for travel and rugged use, OS: Linux Mint
+- iPad Pro 2020 for home use and travel
+- iPhone 14 Pro Max
 
 ### Reading
 - 2013 [Kindle Paperwhite](https://amzn.to/3nGZ5nY)
@@ -20,10 +21,8 @@ order: 4
 - [Raindrop](https://raindrop.io/) for Bookmark management
 
 ### Analog
-- [Bullet Journal](https://bulletjournal.com/pages/learn) for task, thinking and jotting down.
-- [Neorah Dotted Journal](https://amzn.to/3IQX7ys) notebooks 
-- [TWSBI Eco](https://amzn.to/3h2FLyU) and [Jinhao](https://amzn.to/3XBuXvs) fountain pens
-- [Lamy Safari Finetip](https://amzn.to/3OHOs4z) and [uni-Ball Kuru Toga](https://amzn.to/45PbjRZ) for sketching
+- [MoleSkine Journals](https://www.moleskine.com/en-us/) for everything written, sketched, jotted down
+- Zebra Pen F-Series Ballpoint Stainless Steel Pen w/ 1.6mm bold point ink refills
 
 ### Designing
 - [GIMP](https://www.gimp.org/) for Raster

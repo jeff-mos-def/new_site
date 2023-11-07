@@ -1,14 +1,14 @@
 ---
-title: Library
+title: library
 permalink: /reading
 format: list
-description: Here's a compilation of books I've read. The ones marked with ✦ are must-reads, and those marked with ❷ are re-reads. Check my <a href="/antilibrary"><b>Antilibrary </b></a> for the bigger list ;)
+description: The ones marked with ✦ are must-reads, and those marked with ❷ are re-reads. Check my <a href="/antilibrary"><b>Antilibrary </b></a> for the bigger list. ;)
 order: 1
 ---
 
 
 ### Reading Now
-- English, August, Upamanyu Chatterjee
+- [[Steal Like an Artist]], Austin Kleon
 - Starting & Sustaining, Garrett Dimon
 
 ### 2023

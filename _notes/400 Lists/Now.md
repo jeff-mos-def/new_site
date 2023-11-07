@@ -1,5 +1,5 @@
 ---
-title: Now
+title: now
 permalink: /now
 format: list
 description: Explore my current focus, from personal goals to exciting projects. Inspired by <a href="https://sive.rs/nowff/">Derek Sivers's </a> Now Page idea

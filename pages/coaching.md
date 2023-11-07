@@ -1,7 +1,7 @@
 ---
 layout: Post
 permalink: /coaching
-title: Coaching
+title: coaching
 content-type: static
 ---
 

@@ -4,5 +4,5 @@
 
 layout: Post
 permalink: /
-title: Product Designer
+title: Agile Coach & Project Manager
 ---

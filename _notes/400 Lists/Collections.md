@@ -1,5 +1,5 @@
 ---
-title: Collections
+title: collections
 permalink: /collections
 format: list
 description: Collections are curated resources presented in a list format, which appeals to del.icio.us enthusiasts in me.

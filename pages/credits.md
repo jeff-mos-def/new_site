@@ -1,6 +1,6 @@
 ---
 layout: Post
-title: Site Credits
+title: site credits
 permalink: /credits
 content-type: static
 ---
