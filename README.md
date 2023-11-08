@@ -2,4 +2,4 @@
 
 Personal website + Digital garden - Powered using [Jekyll Garden](https://github.com/Jekyll-Garden/jekyll-garden.github.io) Theme.
 
-<a href="https://www.buymeacoffee.com/hiran" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height= "48" width="173"></a>
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'G2G3QTPAG');kofiwidget2.draw();</script> 
