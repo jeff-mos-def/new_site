@@ -3,7 +3,7 @@ title: movie list
 permalink: /watching
 format: list
 description: Here's an attempt to list movies I found good or better (rated 2.5+ out of 5). I admit, maintaining it has been a challenge!
-order: 3
+order: 4
 ---
 
 ### 2023
