@@ -1,10 +1,8 @@
-# Working Notes of Jeff Camacho
-
-Personal website + Digital garden - Powered using [Jekyll Garden](https://github.com/Jekyll-Garden/jekyll-garden.github.io) Theme.
-
 # Jeff Camacho's Personal Site
 
 Welcome to the repository for my personal website, powered by Jekyll. This site is a canvas for my professional journey, a platform for sharing insights, and a bridge connecting with like-minded individuals and teams.
+
+Personal website + Digital garden - Powered using [Jekyll Garden](https://github.com/Jekyll-Garden/jekyll-garden.github.io) Theme.
 
 ## About Me
 
