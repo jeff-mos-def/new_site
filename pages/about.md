@@ -15,3 +15,5 @@ Beyond technology, I've ventured into entrepreneurship with a cleaning service, 
 Throughout my journey from service in the US Army to the tech peaks of software development, I've developed deep insights on leading teams, managing multiple projects, and enhancing operational workflows. While certifications and titles tell part of the story, for me, the essence lies in fostering team spirit, refining processes, and the shared stride towards progress.
 
 Being a self-learner, I am passionate about sharing my knowledge and provide coaching and mentoring to veterans and service members. Other interest includes reading, movies, and traveling.
+
+If you're looking for it, you can find my current resume here.
