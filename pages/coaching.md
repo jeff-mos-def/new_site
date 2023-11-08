@@ -15,5 +15,3 @@ As a Founder/CXO, you can benefit from my guidance on design principles, design 
 
 ## <u>for products</u>
 If you require expert feedback and validation for your projects or products, I provide unlimited asynchronous design feedback via Figma or email for a fixed monthly retainer of $300. Please note that I will not be creating designs for you, but rather providing insights to enhance your design.
-
-
