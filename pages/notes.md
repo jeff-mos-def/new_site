@@ -4,4 +4,4 @@ permalink: /notes
 title: working notes
 ---
 
-Explore my Digital Garden of evolving notes on diverse topics, waiting to bloom over time.
+Working notes, sorted by newest. Search bar utilization works site wide for specifics, <a href="/tags"><b>tags </b></a> can be used for topic filtering on writings.

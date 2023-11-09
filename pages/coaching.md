@@ -15,3 +15,21 @@ For project / program managers, gain actionable insights on navigating design co
 
 ## <u>for product owners</u>
 For product owners, enhance your product's user experience and market fit with my specialized guidance on design principles and Agile practices tailored to your product strategy.
+
+<!-- Google Calendar Appointment Scheduling begin -->
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<script>
+(function() {
+  var target = document.currentScript;
+  window.addEventListener('load', function() {
+    calendar.schedulingButton.load({
+      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ2k64ODT0NudZU8U9twsBzUJohC__ZWQ7Q8ivPc0__QT9wPcSACMdzQA2Ap814C8eTwtl5wtQI-?gv=true',
+      color: '#6d9eff',
+      label: "Book a 15 minute discovery call",
+      target,
+    });
+  });
+})();
+</script>
+<!-- end Google Calendar Appointment Scheduling -->

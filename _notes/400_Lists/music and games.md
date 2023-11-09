@@ -1,8 +1,8 @@
 ---
-title: test
-permalink: /using/figma
+title: music and games
+permalink: /mng
 format: list
-description: Currently, I rely on <a href="https:figma.com">Figma</a>  as my go-to tool for screen design. I've found a few plugins and templates that greatly enhance my workflow and efficiency in the process.
+description: My top picks for music that moves me and games that grip me.
 order: 5
 ---
 

@@ -2,7 +2,7 @@
 title: library
 permalink: /reading
 format: list
-description: The ones marked with ✦ are must-reads, and those marked with ❷ are re-reads. Check my <a href="/antilibrary"><b>Antilibrary </b></a> for the bigger list. ;)
+description: The ones marked with 🎖️ are must-reads, and those marked with 🔁 are re-reads. Check my <a href="/antilibrary"><b>Antilibrary </b></a> for the bigger list. 🤓
 order: 2
 ---
 
@@ -11,7 +11,7 @@ order: 2
 ### Reading Now
 - [[Steal Like an Artist]], Austin Kleon 📖
 - Show Your Work!, Austin Kleon 📖
-- [[Starship Troopers]], Robert Heinlein 🎧 ✦ ❷
+- [[Starship Troopers]], Robert Heinlein 🎧 🎖️ 🔁
 
 ### Up to site creation
 - The Ten-Day MBA, Steven A Silbiger 📖
@@ -36,6 +36,6 @@ order: 2
 - The Demon-Haunted World: Science as a Candle in the Dark, Carl Sagan 🎧
 - The Shining, Stephen King 🎧
 - Necromonicon, H.P. Lovecraft 🎧
-- Shop Class as Soulcraft: An Inquiry into the Value of Work, Matthew B. Crawford 🎧 ✦ ❷
-- Why We Make Things and Why It Matters: The Education of a Craftsman, Peter Korn 🎧 ✦ ❷
+- Shop Class as Soulcraft: An Inquiry into the Value of Work, Matthew B. Crawford 🎧 🎖️ 🔁
+- Why We Make Things and Why It Matters: The Education of a Craftsman, Peter Korn 🎧 🎖️ 🔁
 - It, Stephen King 🎧
