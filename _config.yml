@@ -25,10 +25,51 @@ url: "https://jeffcamacho.com/" # the base hostname & protocol for your site, e.
 # Else keep it Empty (DON'T PUT /; Keep it empty)
 baseurl: ""
 
+tags:
+  - Agile Methodology
+  - Scrum Framework
+  - Kanban 
+  - Lean Agile 
+  - Agile Best Practices 
+  - User Stories 
+  - Sprint Planning 
+  - Continuous Improvement 
+  - Retrospective 
+  - Agile Leadership 
+  - Product Owner 
+  - Scrum Master 
+  - Agile Development 
+  - Agile Tools 
+  - Business Agility 
+  - Agile Coaching 
+  - Scaled Agile 
+  - DevOps 
+  - Project Management 
+  - Agile Case Studies 
+  - Agile Transformation 
+  - Agile Teams 
+  - Velocity 
+  - Backlog Management 
+  - JIRA 
+  - Agile Metrics 
+  - Test Driven Development 
+  - Release Planning 
+  - Agile Culture 
+  - Iterative Development 
+  - SAFe 
+  - Lean Enterprise 
+  - PI Planning 
+  - ART 
+  - Value Stream Mapping 
+  - Release Train Engineer 
+  - System Architect 
+  - Solution Architect 
+  - Lean Portfolio Management
+
 # Website Header, Description, Footer year and text. 
 # If you are deleting this, make sure you remove it from HTML files too 
-heading: jeff camacho # Change this 
-content: MBA | SAFe 6 SPC | Agile Coach | Mentor | Army Veteran
+heading: Jeff Camacho # Change this 
+description: MBA | SAFe 6 SPC | Agile Coach | Mentor | Army Veteran
 timezone: America/Chicago
 copyright:  
   year: © 2023
@@ -97,7 +138,12 @@ defaults:
       layout: Post
       content-type: notes
       
-
+analytics:
+  providers:
+    GoogleAnalytics4:
+      tracking_id: G-Q12WCFYHRC
+  enabled: true
+  auto: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
