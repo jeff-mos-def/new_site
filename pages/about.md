@@ -16,4 +16,4 @@ Throughout my journey from service in the US Army to the tech peaks of software 
 
 Being a self-learner, I am passionate about sharing my knowledge and provide coaching and mentoring to veterans and service members. Other interest includes reading, movies, and traveling.
 
-If you're looking for it, you can find my current resume here.
+If you're looking for it, you can find my current resume [here](/assets/files/resume/Jeff%20Camacho_Resume_19Oct23.pdf).
