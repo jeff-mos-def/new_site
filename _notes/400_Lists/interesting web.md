@@ -2,7 +2,7 @@
 title: interesting websites
 permalink: /interwebs
 format: list
-description: I adore personal webpages.
+description: This is a curated list of websites that I either find useful or use on a regular basis.
 order: 6
 ---
 

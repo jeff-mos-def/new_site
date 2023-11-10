@@ -6,7 +6,9 @@ description: An <a href="https://fs.blog/the-antilibrary/">antilibrary </a> usua
 order: 3
 ---
 
+This list is a live list and will be updated as it grows.
+
 📖 Book, 📟 Ebook, 🎧 Audio Book
 
 ## New Founds
-- 
+- WIP

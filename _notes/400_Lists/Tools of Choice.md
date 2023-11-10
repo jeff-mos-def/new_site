@@ -2,7 +2,7 @@
 title: tools of choice
 permalink: /using
 format: list
-description: My handpicked collection of favorite tools, spanning analog and digital domains (Web, Mac & Android)
+description: My handpicked collection of favorite tools, spanning analog and digital domains.
 order: 9
 ---
 
